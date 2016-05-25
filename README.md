@@ -48,8 +48,5 @@ You will then be able to access it at localhost:8100
 
 Screenshots
 =====================
-![alt text](screenshots/login-page.png)
-![alt text](screenshots/allow-app-to-know-you-location.png)
-![alt text](screenshots/map-view.png)
-![alt text](screenshots/dashboard.png)
-![alt text](screenshots/hamburger-menu.png)
+![alt text](screenshots/canoeOverview.png)
+
